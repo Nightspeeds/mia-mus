@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+li {
+	display: inline;
+	
+
+} 
+
+ul {
+	list-style-type: none;
+	height: 70 px;
+	background-color: black;
+	text-align:center;
+	padding: 20px;
+}
+
+
+li a {
+	color: #B1090C;
+	background-color: black;
+	text-decoration: none;
+	padding: 20px;
+	
+}
+
+li a:hover {
+	background-color: #808080;
+}
+
+.active {
+	background-color: #808080;
+	
+}
